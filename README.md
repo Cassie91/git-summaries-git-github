@@ -11,7 +11,7 @@ Repository that aims to summarize studies about Git and GitHub as well, using as
 
 | Class | Summary |
 |-------|---------|
-|Saving changes to local repository|[Summary]()|
+|Saving changes to local repository|[Summaries]()|
 
 ```
 git init
